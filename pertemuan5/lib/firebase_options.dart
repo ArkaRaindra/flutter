@@ -47,8 +47,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAkhQ410lexSLFXzf9d4DUlKXzH5mEe53Y',
-    appId: '1:971826640241:web:19ea0c51c994af85ea32d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '971826640241',
     projectId: 'pertemuan5-arka-6b35a',
     authDomain: 'pertemuan5-arka-6b35a.firebaseapp.com',
@@ -57,16 +57,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDbtYbkCC-UPo6L9ad8fZHgiRC2GQ2GC2c',
-    appId: '1:971826640241:android:344185a1db8dd9a4ea32d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '971826640241',
     projectId: 'pertemuan5-arka-6b35a',
     storageBucket: 'pertemuan5-arka-6b35a.firebasestorage.app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAkhQ410lexSLFXzf9d4DUlKXzH5mEe53Y',
-    appId: '1:971826640241:web:2fc1fd319fe47bc9ea32d0',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '971826640241',
     projectId: 'pertemuan5-arka-6b35a',
     authDomain: 'pertemuan5-arka-6b35a.firebaseapp.com',
